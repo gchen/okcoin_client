@@ -11,7 +11,7 @@ OKCoin比特币交易平台的Python客户端，支持下单交易，取消下�
 * git clone https://github.com/gchen/okcoin_python_api.git     (或者直接下载该项目的.zip)
 * 从OKCoin企业QQ处开通交易API权限，并得到交易私钥对。
 * 在client.py中输入你的partner_key和secret_key
-* 运行python client.py
+* 运行python client.py （Windows需要安装cygwin）
 
 
 Happy trading!
